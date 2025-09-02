@@ -1,3 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
 header{
-    background-color: blueviolet;
+    background-color: rgb(8, 212, 52);
+}
+#produtos{
+    background-color: chartreuse;
+}
+#historia{
+    background-color: chartreuse;
+}
+#cadastro{
+    background-color: chartreuse;
+}
+footer{
+    background-color: darkgreen;
+}
+.logotipo{
+    height: 250px;
 }
